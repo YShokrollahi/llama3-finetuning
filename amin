@@ -1,1 +1,1 @@
-#here is my stategy for fine tuning llama3.1 8B on my own datasets using H100 but seems
+#here is my stategy for fine tuning llama3.1 8B on my own datasets using H100 but seems that its not working on A100
