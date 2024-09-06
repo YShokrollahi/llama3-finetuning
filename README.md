@@ -1,5 +1,5 @@
 #readme 
-How to Fine-Tune LLaMA 3 with LoRA in H100 GPUs or A100 or A100 40GB
+How to Fine-Tune LLaMA 3 with LoRA in H100 GPUs or A100 80GB or A100 40GB
 
 To fine-tune LLaMA 3 using LoRA (Low-Rank Adaptation), follow these steps:
 
