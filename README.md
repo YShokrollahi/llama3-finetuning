@@ -2,7 +2,7 @@
 How to Fine-Tune LLaMA 3 with LoRA in H100 GPUs or A100 80GB or A100 40GB
 kubernetes in house gpus
 
-To fine-tune LLaMA 3 using LoRA (Low-Rank Adaptation), follow these steps:
+To fine-tune LLaMA 3 using LoRA (Low-Rank Adaptation), follow these steps and you can run on kubernet
 
     Set Up Environment:
         Ensure you have a Python environment with the necessary dependencies. Install the required libraries such as transformers, datasets, and peft.
